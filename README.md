@@ -1,6 +1,5 @@
 <p align="center">
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjez0GmnKTY-XTcaJg8eyapbhXlQOdGmtZaIAP3Ce3QIl3dVVLUOt4DsqFWJZyGrrvpgx8Rj3xlCo59FF8F6wzIruiXHi934owJD_9FGYk_5X7qGDcCqyV7bB4hy4puX-wQvALqi2A0eO86xx4l65fUzhcHUvKXHdQyOMZMqptMUuij2rvDQFUfb_tlLnk/w655-h163/Bishal%20Roy.gif)](https://r0y015.io
-)
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjez0GmnKTY-XTcaJg8eyapbhXlQOdGmtZaIAP3Ce3QIl3dVVLUOt4DsqFWJZyGrrvpgx8Rj3xlCo59FF8F6wzIruiXHi934owJD_9FGYk_5X7qGDcCqyV7bB4hy4puX-wQvALqi2A0eO86xx4l65fUzhcHUvKXHdQyOMZMqptMUuij2rvDQFUfb_tlLnk/w655-h163/Bishal%20Roy.gif)](https://r0y015.io" />
 </p>
 <h1 align="center">Hi 👋, I'm Bishal Roy</h1>
 <h3 align="center">An aspiring full-stack developer from Jamshedpur, India</h3>
