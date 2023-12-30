@@ -26,7 +26,7 @@ class Introduction {
 
 
 <!-- readme stats -->
-<div align="center">
+<div align="center" width="500px">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=r0y15&show_icons=true&locale=en" alt="r0y15" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0y15&show_icons=true&locale=en&layout=compact" alt="r0y15" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0y15&" alt="r0y15" /></p> 
@@ -60,7 +60,6 @@ class Introduction {
     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
