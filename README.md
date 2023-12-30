@@ -1,9 +1,10 @@
 <p align="center">
 <img src="https://d2pnsmz45e0v9n.cloudfront.net/d4f38q%2Fpreview%2F54971259%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1702841334&Signature=Tx8p2fvIbgdUeq9G6Ckf9PZtG-oHL4jhrv~kZazklhhhnoIaltZUkUnST6cST~R-7oye~o5nJIgXodOzDqKSQlgMuXVUz0J0FKcQTTZkW8ZLy3nOKkDvaS4~KvsmHHo0mC3EREKplk1JZYWCEjwh-~0zaIeW3Eoj6i3SSVVt0FTvRRuGJrc-etNHOPEXuX-pqNYySrqfdK8H~M-vmwju9wV50xnwNu6KseD9jGwEHEQD9IB6qGzuzoRsth1p8yIcd41DM0hxznG0wIzxfKJW8~GU86JKAiakbL79KeAiLFUrtVFR2X8XE6LDxtFBeMFxXnGeLMhZWafJ-ezuBMCbzg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
 </p>
-<h1 align="center">Hi 👋, I'm Bishal Roy</h1>
-<h3 align="center">An aspiring full-stack developer from Jamshedpur, India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" > 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F7D5&center=true&vCenter=true&random=false&width=550&lines=%3C+print(%22Hello+World%22)+%2F%3E%2C+I'm+Bishal+Roy;A+Tech+Enthusiast+%F0%9F%8E%B2;Loves+To+Build+Products+%E2%9C%A8;Machine+Learning+Student+%F0%9F%8E%93;Open+Source+Contributor+%E2%9C%8C;Building+Next+Gen+Websites+%F0%9F%95%B5" alt="Typing SVG" />
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0y15&label=Profile%20views&color=0e75b6&style=flat" alt="r0y15" /> </p>
@@ -29,33 +30,30 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r0y15&show_icons=true&locale=en" alt="r0y15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0y15&" alt="r0y15" /></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F7D5&center=true&vCenter=true&random=false&width=550&lines=%3C+print(%22Hello+World%22)+%2F%3E%2C+I'm+Bishal+Roy;A+Tech+Enthusiast+%F0%9F%8E%B2;Loves+To+Build+Products+%E2%9C%A8;Machine+Learning+Student+%F0%9F%8E%93;Open+Source+Contributor+%E2%9C%8C;Building+Next+Gen+Websites+%F0%9F%95%B5" alt="Typing SVG" />
-</p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0y15&" alt="r0y15" /></p> 
 
 
 ## Technical Skills ✔
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+<div align='center'>
+    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+</div>
 
 ## Hacktoberfest 2023 Badges ✨
 
