@@ -1,23 +1,25 @@
 <p align="center">
-    <img src="https://d2pnsmz45e0v9n.cloudfront.net/d4f38q%2Fpreview%2F54971259%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1702841334&Signature=Tx8p2fvIbgdUeq9G6Ckf9PZtG-oHL4jhrv~kZazklhhhnoIaltZUkUnST6cST~R-7oye~o5nJIgXodOzDqKSQlgMuXVUz0J0FKcQTTZkW8ZLy3nOKkDvaS4~KvsmHHo0mC3EREKplk1JZYWCEjwh-~0zaIeW3Eoj6i3SSVVt0FTvRRuGJrc-etNHOPEXuX-pqNYySrqfdK8H~M-vmwju9wV50xnwNu6KseD9jGwEHEQD9IB6qGzuzoRsth1p8yIcd41DM0hxznG0wIzxfKJW8~GU86JKAiakbL79KeAiLFUrtVFR2X8XE6LDxtFBeMFxXnGeLMhZWafJ-ezuBMCbzg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
+    <img src="https://i.postimg.cc/1zNbXNC7/Bishal-Roy.jpg">
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F7D5&center=true&vCenter=true&random=false&width=550&lines=%3C+print(%22Hello+World%22)+%2F%3E%2C+I'm+Bishal+Roy;A+Tech+Enthusiast+%F0%9F%8E%B2;Loves+To+Build+Products+%E2%9C%A8;Machine+Learning+Student+%F0%9F%8E%93;Open+Source+Contributor+%E2%9C%8C;Building+Next+Gen+Websites+%F0%9F%95%B5" alt="Typing SVG" />
 </p>
 
-## About
+## About Me 👨‍💻
+
+<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Boy-typing" width="350" />
 
 ```diff
 
-class Introduction {
-    introduce = "Hi, I'm Bishal Roy 👋🏻";
+class Introduce {
+    introduction = "Hi, I'm Bishal Roy 👋🏻";
     education = "AI & ML Student @ VIT 🎓";
     description_1 = "Front-end React Developer 🌐";
     description_2 = "UI/UX Designer 🎨";
     contributor_status = "Open Source Contributor 💻";
     
-    Introduction of_bishal = new Introduction();
+    Introduce Bishal = new Introduce();
 }
 
 ```
@@ -26,10 +28,13 @@ class Introduction {
 
 
 <!-- readme stats -->
-<div align="center" width="500px">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=r0y15&show_icons=true&locale=en" alt="r0y15" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0y15&show_icons=true&locale=en&layout=compact" alt="r0y15" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0y15&" alt="r0y15" /></p> 
+<div align="center">
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=r0y15&show_icons=true&locale=en&theme=dracula" alt="r0y15" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=R0Y15&theme=dracula&hide_border=true" alt="GitHub Streak" /></a></p> &nbsp;
+
+<br>
+
 </div>
 
 
@@ -54,11 +59,11 @@ class Introduction {
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
     <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
@@ -68,9 +73,20 @@ class Introduction {
 
 [![An image of @r0y's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/r0y)](https://holopin.io/@r0y)
 
+## Recent Projects 🚀
+
+<div align="center">
+<a href="show-me-a-car.vercel.app" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R0y15&theme=dracula&repo=ShowMeACar" alt="Readme Card" /></a>
+<a href="shopperz-sigma.vercel.app" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R0y15&theme=dracula&repo=Shopperz" alt="Readme Card" /></a>
+
+</div>
+
+<br>
 <!-- connect me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/roy_015__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roy_015__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roy15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy15" height="30" width="40" /></a>
+## Connect with me :)
+<p align="center">
+<a href="https://twitter.com/roy_015__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="roy_015__" /></a>
+<a href="https://linkedin.com/in/roy15" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="roy15" /></a>
+<a href="https://www.instagram.com/its_aka_roy" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="roy15" /></a>
+<a href="mailto: bishalroy15jan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roy15" /></a>
 </p>
