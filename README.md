@@ -6,36 +6,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F7D5&center=true&vCenter=true&random=false&width=550&lines=%3C+print(%22Hello+World%22)+%2F%3E%2C+I'm+Bishal+Roy;A+Tech+Enthusiast+%F0%9F%8E%B2;Loves+To+Build+Products+%E2%9C%A8;Machine+Learning+Student+%F0%9F%8E%93;Open+Source+Contributor+%E2%9C%8C;Building+Next+Gen+Websites+%F0%9F%95%B5" alt="Typing SVG" />
 </p>
 
-# About
-
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **UI/UX, Web, Graphics, Python....**
-
-- 📫 How to reach me **bishalroy15jan@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r0y15&label=Profile%20views&color=0e75b6&style=flat" alt="r0y15" /> </p>
-
-<p align="left"> <a href="https://twitter.com/roy_015__" target="blank"><img src="https://img.shields.io/twitter/follow/roy_015__?logo=twitter&style=for-the-badge" alt="roy_015__" /></a> </p>
+## About
 
 ```diff
-hi, im Bishal 🤖
-+ AI & ML Student @ VIT 🎓
-! Front-end React Developer 🌐
-- UI/UX Designer 🎨
-# Open Source Contributor 💻
+
+class Introduction {
+    introduce = "Hi, I'm Bishal Roy 👋🏻";
+    education = "AI & ML Student @ VIT 🎓";
+    description_1 = "Front-end React Developer 🌐";
+    description_2 = "UI/UX Designer 🎨";
+    contributor_status = "Open Source Contributor 💻";
+    
+    Introduction of_bishal = new Introduction();
+}
+
 ```
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=r0y15&label=Profile%20views&color=0e75b6&style=flat" alt="r0y15" /> </p>
 
 
 <!-- readme stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r0y15&show_icons=true&locale=en" alt="r0y15" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0y15&" alt="r0y15" /></p> 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0y15&show_icons=true&locale=en&layout=compact" alt="r0y15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0y15&" alt="r0y15" /></p> 
 
 
 <!-- skills -->
 ## Technical Skills ✔
+
 <div align='center'>
     <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
