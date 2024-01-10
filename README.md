@@ -8,7 +8,7 @@
 
 ## About Me 👨‍💻
 
-<img align="right" src="./boy-typing.gif" alt="Boy-typing" width="345" />
+<img align="right" src="./boy-typing.gif" alt="Boy-typing" width="345" height="250"/>
 
 ```diff
 
