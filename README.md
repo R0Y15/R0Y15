@@ -19,8 +19,8 @@ class Introduce {
     description_2 = "UI/UX Designer 🎨";
     contributor_status = "Open Source Contributor 💻";
     
-    Introduce Bishal = new Introduce();
 }
+let Bishal = new Introduce();
 
 ```
 
@@ -79,8 +79,8 @@ class Introduce {
 ## Recent Projects 🚀
 
 <div align="center">
-<a href="show-me-a-car.vercel.app" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R0y15&theme=dracula&repo=ShowMeACar" alt="Readme Card" /></a>
-<a href="shopperz-sigma.vercel.app" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R0y15&theme=dracula&repo=Shopperz" alt="Readme Card" /></a>
+<a href="https://github.com/R0Y15/blunk" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R0y15&theme=dracula&repo=blunk" alt="Readme Card" /></a>
+<a href="https://github.com/R0Y15/E-Converse" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R0y15&theme=dracula&repo=E-Converse" alt="Readme Card" /></a>
 
 </div>
 
@@ -90,6 +90,5 @@ class Introduce {
 <p align="center">
 <a href="https://twitter.com/roy_015__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="roy_015__" /></a>
 <a href="https://linkedin.com/in/roy15" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="roy15" /></a>
-<a href="https://www.instagram.com/its_aka_roy" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="roy15" /></a>
 <a href="mailto: bishalroy15jan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roy15" /></a>
 </p>
